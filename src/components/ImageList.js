@@ -1,10 +1,17 @@
 import React, {Component} from 'react'
 
 class ImageList extends Component {
+    
+
     render(){
+
         return(
             <div>
-                <p>Hello from the image list</p>
+                <ul>
+                    <li>
+
+                    </li>
+                </ul>
             </div>
         )
     }
